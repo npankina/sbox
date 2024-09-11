@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-07acd155f9b1336a4f20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "seb",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "seb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seb-Debug-d1224b415aba92ca30a4.json",
+					"name" : "seb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "seb_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seb_autogen-Debug-fde9522a71f21fab85e1.json",
+					"name" : "seb_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "seb_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-seb_autogen_timestamp_deps-Debug-006aa587b3f851ed9293.json",
+					"name" : "seb_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dev/Projects/qt_app/seb/build/clang-Debug",
+		"source" : "/Users/dev/Projects/qt_app/seb"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
