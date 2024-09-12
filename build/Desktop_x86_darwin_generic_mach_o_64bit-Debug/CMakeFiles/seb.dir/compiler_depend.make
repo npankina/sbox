@@ -1062,6 +1062,537 @@ seb_autogen/timestamp: /Applications/Xcode.app/Contents/Developer/Platforms/MacO
   /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
   /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-release.cmake \
   /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
+  /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/TargetConditionals.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_ctermid.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdio.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uint16_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uint32_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uint64_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uint8_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uintmax_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/alloca.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/_limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/_mcontext.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/_types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/endian.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/signal.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/_OSByteOrder.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/i386/_OSByteOrder.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/i386/_structs.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/machine/_structs.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_mcontext.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/endian.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/limits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/signal.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_ptrcheck.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdint.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdlib.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/string.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/strings.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_endian.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_posix_availability.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_attr_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_symbol_aliasing.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ct_rune_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_dev_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_errno_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_id_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int16_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int32_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int64_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int8_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_intptr_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_null.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_off_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_offsetof.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_pid_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ptrdiff_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_rsize_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_rune_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_seek_set.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_sigaltstack.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_sigset_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_size_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ssize_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_timeval.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int16_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int32_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int64_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int8_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ucontext.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uid_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uintptr_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_va_list.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_wchar_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_wint_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/appleapiopts.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/cdefs.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/resource.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/signal.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/stdio.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h \
+  /Users/dev/Projects/qt_app/seb/CMakeLists.txt \
+  /Users/dev/Projects/qt_app/seb/Card.cpp \
+  /Users/dev/Projects/qt_app/seb/Card.h \
+  /Users/dev/Projects/qt_app/seb/Deck.cpp \
+  /Users/dev/Projects/qt_app/seb/Deck.h \
+  .qtc/package-manager/auto-setup.cmake \
+  CMakeFiles/3.30.3/CMakeCXXCompiler.cmake \
+  CMakeFiles/3.30.3/CMakeSystem.cmake \
+  seb_autogen/moc_predefs.h \
+  /Users/dev/Projects/qt_app/seb/main.cpp \
+  /Users/dev/Projects/qt_app/seb/main_window.cpp \
+  /Users/dev/Projects/qt_app/seb/main_window.h \
+  /Users/dev/Projects/qt_app/seb/main_window.ui \
+  /usr/local/Cellar/cmake/3.30.3/bin/cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeCXXInformation.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeCommonLanguageInclude.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeFindDependencyMacro.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeGenericSystem.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeInitializeConfigs.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeLanguageInformation.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeSystemSpecificInformation.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CheckCXXCompilerFlag.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CheckCXXSourceCompiles.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CheckIncludeFileCXX.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CheckLibraryExists.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/AppleClang-CXX.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/Clang.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/GNU.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindOpenGL.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageMessage.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindThreads.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindVulkan.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/GNUInstallDirs.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Internal/CheckCompilerFlag.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Internal/CheckFlagCommonConfig.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Internal/CheckSourceCompiles.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/MacroAddFileDependencies.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Apple-Clang.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Darwin-Initialize.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Darwin.cmake \
+  /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/UnixPaths.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/QObject \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/QStringListModel \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qassert.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qchar.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcompare.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcomparehelpers.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qconfig.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcoreapplication.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcoreapplication_platform.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcoreevent.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qdeadlinetimer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qelapsedtimer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qendian.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qeventloop.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qflags.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qglobal.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qhash.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qitemselectionmodel.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qline.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qlist.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qmap.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qmargins.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qmath.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qnativeinterface.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qobject.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qoverload.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qpair.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qpoint.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qrect.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qset.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qshareddata.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qsize.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstring.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringconverter.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringlist.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringlistmodel.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringview.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qswap.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtresource.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qttranslation.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtversion.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/QStandardItem \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/QStandardItemModel \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qaction.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qcolor.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qcursor.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qfont.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qfontmetrics.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qguiapplication.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qguiapplication_platform.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qicon.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qimage.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qinputmethod.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qregion.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qstandarditemmodel.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/QApplication \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/QListView \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemdelegate.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemview.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qabstractscrollarea.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qabstractslider.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qabstractspinbox.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qapplication.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qlistview.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qrubberband.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qslider.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qstyle.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qstyleoption.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qtabbar.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/FindWrapAtomic.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/FindWrapOpenGL.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtFeature.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtFeatureCommon.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
+  /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/macos/Info.plist.app.in \
+  /usr/local/lib/cmake/Qt6/Qt6Config.cmake \
+  /usr/local/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+  /usr/local/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6/Qt6Dependencies.cmake \
+  /usr/local/lib/cmake/Qt6/Qt6Targets.cmake \
+  /usr/local/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+  /usr/local/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreMacros.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CorePlugins.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreTargets.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinCameraPermissionPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Core/QtInstallPaths.cmake \
+  /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake \
+  /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake \
+  /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake \
+  /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake \
+  /usr/local/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake \
+  /usr/local/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake \
+  /usr/local/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake \
+  /usr/local/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake \
+  /usr/local/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QICNSPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QICNSPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QJp2PluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QJp2PluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QJp2PluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QJp2PluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMacHeifPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMacHeifPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMngPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMngPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMngPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QPdfPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QPdfPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTgaPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTgaPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTiffPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTiffPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QWbmpPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QWbmpPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QWebpPluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QWebpPluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake \
+  /usr/local/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake \
+  /usr/local/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
+  /usr/local/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6QMacStylePluginConfig.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake \
+  /usr/local/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake \
+  /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake \
+  /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake \
+  /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake \
+  /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake \
+  /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake \
+  /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-release.cmake \
+  /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
   /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake
 
 CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
@@ -1341,8 +1872,13 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/popcount.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/rotate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit_reference \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/chars_format.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_integral.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/tables.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_base_10.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_floating_point.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/traits.h \
@@ -1353,12 +1889,15 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/duration.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/file_clock.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/literals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month_weekday.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/monthday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/ostream.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/parser_std_format_spec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/statically_widen.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/steady_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/system_clock.h \
@@ -1416,20 +1955,31 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/buffer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/concepts.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/enable_insertable.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/escaped_output_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/extended_grapheme_cluster_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg_store.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_args.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_context.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_error.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_functions.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_fwd.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_parse_context.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_to_n_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_bool.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_char.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_floating_point.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_output.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_pointer.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/parser_std_format_spec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/unicode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/width_estimation_table.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/write_escaped.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_function.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_negate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/bind.h \
@@ -1773,8 +2323,10 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/atomic \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bit \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bitset \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cctype \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cerrno \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/charconv \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/chrono \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/climits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/clocale \
@@ -1798,6 +2350,7 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/initializer_list \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ios \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iosfwd \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/istream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iterator \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits.h \
@@ -1811,7 +2364,9 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/new \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/numeric \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/optional \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ratio \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdbool.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdexcept \
@@ -1992,6 +2547,7 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /usr/local/include/QtCore/qbytearrayalgorithms.h \
   /usr/local/include/QtCore/qbytearraylist.h \
   /usr/local/include/QtCore/qbytearrayview.h \
+  /usr/local/include/QtCore/qcalendar.h \
   /usr/local/include/QtCore/qchar.h \
   /usr/local/include/QtCore/qcompare.h \
   /usr/local/include/QtCore/qcompare_impl.h \
@@ -2006,7 +2562,6 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /usr/local/include/QtCore/qdarwinhelpers.h \
   /usr/local/include/QtCore/qdatastream.h \
   /usr/local/include/QtCore/qdebug.h \
-  /usr/local/include/QtCore/qendian.h \
   /usr/local/include/QtCore/qexceptionhandling.h \
   /usr/local/include/QtCore/qflags.h \
   /usr/local/include/QtCore/qfloat16.h \
@@ -2022,12 +2577,11 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /usr/local/include/QtCore/qiterable.h \
   /usr/local/include/QtCore/qiterator.h \
   /usr/local/include/QtCore/qlatin1stringview.h \
-  /usr/local/include/QtCore/qline.h \
   /usr/local/include/QtCore/qlist.h \
+  /usr/local/include/QtCore/qlocale.h \
   /usr/local/include/QtCore/qlogging.h \
   /usr/local/include/QtCore/qmalloc.h \
   /usr/local/include/QtCore/qmap.h \
-  /usr/local/include/QtCore/qmargins.h \
   /usr/local/include/QtCore/qmath.h \
   /usr/local/include/QtCore/qmetacontainer.h \
   /usr/local/include/QtCore/qmetatype.h \
@@ -2040,9 +2594,7 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /usr/local/include/QtCore/qobjectdefs_impl.h \
   /usr/local/include/QtCore/qoverload.h \
   /usr/local/include/QtCore/qpair.h \
-  /usr/local/include/QtCore/qpoint.h \
   /usr/local/include/QtCore/qprocessordetection.h \
-  /usr/local/include/QtCore/qrect.h \
   /usr/local/include/QtCore/qrefcount.h \
   /usr/local/include/QtCore/qscopedpointer.h \
   /usr/local/include/QtCore/qscopeguard.h \
@@ -2051,7 +2603,6 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /usr/local/include/QtCore/qshareddata_impl.h \
   /usr/local/include/QtCore/qsharedpointer.h \
   /usr/local/include/QtCore/qsharedpointer_impl.h \
-  /usr/local/include/QtCore/qsize.h \
   /usr/local/include/QtCore/qstring.h \
   /usr/local/include/QtCore/qstringalgorithms.h \
   /usr/local/include/QtCore/qstringbuilder.h \
@@ -2091,38 +2642,10 @@ CMakeFiles/seb.dir/Card.cpp.o: /Users/dev/Projects/qt_app/seb/Card.cpp \
   /usr/local/include/QtCore/qversiontagging.h \
   /usr/local/include/QtCore/qxptype_traits.h \
   /usr/local/include/QtCore/qyieldcpu.h \
-  /usr/local/include/QtGui/qaction.h \
-  /usr/local/include/QtGui/qbitmap.h \
-  /usr/local/include/QtGui/qbrush.h \
-  /usr/local/include/QtGui/qcolor.h \
-  /usr/local/include/QtGui/qcursor.h \
-  /usr/local/include/QtGui/qfont.h \
-  /usr/local/include/QtGui/qfontinfo.h \
-  /usr/local/include/QtGui/qfontmetrics.h \
-  /usr/local/include/QtGui/qicon.h \
-  /usr/local/include/QtGui/qimage.h \
-  /usr/local/include/QtGui/qkeysequence.h \
-  /usr/local/include/QtGui/qpaintdevice.h \
-  /usr/local/include/QtGui/qpalette.h \
-  /usr/local/include/QtGui/qpixelformat.h \
-  /usr/local/include/QtGui/qpixmap.h \
-  /usr/local/include/QtGui/qpolygon.h \
-  /usr/local/include/QtGui/qregion.h \
-  /usr/local/include/QtGui/qrgb.h \
-  /usr/local/include/QtGui/qrgba64.h \
-  /usr/local/include/QtGui/qtgui-config.h \
-  /usr/local/include/QtGui/qtguiexports.h \
-  /usr/local/include/QtGui/qtguiglobal.h \
-  /usr/local/include/QtGui/qtransform.h \
-  /usr/local/include/QtGui/qwindowdefs.h \
-  /usr/local/include/QtWidgets/qsizepolicy.h \
-  /usr/local/include/QtWidgets/qtabwidget.h \
-  /usr/local/include/QtWidgets/qtwidgets-config.h \
-  /usr/local/include/QtWidgets/qtwidgetsexports.h \
-  /usr/local/include/QtWidgets/qtwidgetsglobal.h \
-  /usr/local/include/QtWidgets/qwidget.h \
-  /usr/local/lib/QtWidgets.framework/Headers/QMainWindow \
-  /usr/local/lib/QtWidgets.framework/Headers/qmainwindow.h
+  /usr/local/lib/QtCore.framework/Headers/QDateTime \
+  /usr/local/lib/QtCore.framework/Headers/QString \
+  /usr/local/lib/QtCore.framework/Headers/qdatetime.h \
+  /usr/local/lib/QtCore.framework/Headers/qstring.h
 
 CMakeFiles/seb.dir/Deck.cpp.o: /Users/dev/Projects/qt_app/seb/Deck.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/Availability.h \
@@ -3353,8 +3876,13 @@ CMakeFiles/seb.dir/main.cpp.o: /Users/dev/Projects/qt_app/seb/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/popcount.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/rotate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit_reference \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/chars_format.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_integral.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/tables.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_base_10.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_floating_point.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/traits.h \
@@ -3365,12 +3893,15 @@ CMakeFiles/seb.dir/main.cpp.o: /Users/dev/Projects/qt_app/seb/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/duration.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/file_clock.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/literals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month_weekday.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/monthday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/ostream.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/parser_std_format_spec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/statically_widen.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/steady_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/system_clock.h \
@@ -3428,20 +3959,31 @@ CMakeFiles/seb.dir/main.cpp.o: /Users/dev/Projects/qt_app/seb/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/buffer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/concepts.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/enable_insertable.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/escaped_output_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/extended_grapheme_cluster_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg_store.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_args.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_context.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_error.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_functions.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_fwd.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_parse_context.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_to_n_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_bool.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_char.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_floating_point.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_output.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_pointer.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/parser_std_format_spec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/unicode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/width_estimation_table.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/write_escaped.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_function.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_negate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/bind.h \
@@ -3785,8 +4327,10 @@ CMakeFiles/seb.dir/main.cpp.o: /Users/dev/Projects/qt_app/seb/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/atomic \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bit \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bitset \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cctype \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cerrno \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/charconv \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/chrono \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/climits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/clocale \
@@ -3810,6 +4354,7 @@ CMakeFiles/seb.dir/main.cpp.o: /Users/dev/Projects/qt_app/seb/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/initializer_list \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ios \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iosfwd \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/istream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iterator \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits.h \
@@ -3823,7 +4368,9 @@ CMakeFiles/seb.dir/main.cpp.o: /Users/dev/Projects/qt_app/seb/main.cpp \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/new \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/numeric \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/optional \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ratio \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdbool.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdexcept \
@@ -4476,8 +5023,13 @@ CMakeFiles/seb.dir/main_window.cpp.o: /Users/dev/Projects/qt_app/seb/main_window
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/popcount.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/rotate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit_reference \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/chars_format.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_integral.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/tables.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_base_10.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_floating_point.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/traits.h \
@@ -4488,12 +5040,15 @@ CMakeFiles/seb.dir/main_window.cpp.o: /Users/dev/Projects/qt_app/seb/main_window
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/duration.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/file_clock.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/literals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month_weekday.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/monthday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/ostream.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/parser_std_format_spec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/statically_widen.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/steady_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/system_clock.h \
@@ -4551,20 +5106,31 @@ CMakeFiles/seb.dir/main_window.cpp.o: /Users/dev/Projects/qt_app/seb/main_window
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/buffer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/concepts.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/enable_insertable.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/escaped_output_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/extended_grapheme_cluster_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg_store.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_args.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_context.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_error.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_functions.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_fwd.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_parse_context.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_to_n_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_bool.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_char.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_floating_point.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_output.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_pointer.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/parser_std_format_spec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/unicode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/width_estimation_table.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/write_escaped.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_function.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_negate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/bind.h \
@@ -4908,8 +5474,10 @@ CMakeFiles/seb.dir/main_window.cpp.o: /Users/dev/Projects/qt_app/seb/main_window
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/atomic \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bit \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bitset \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cctype \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cerrno \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/charconv \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/chrono \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/climits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/clocale \
@@ -4933,6 +5501,7 @@ CMakeFiles/seb.dir/main_window.cpp.o: /Users/dev/Projects/qt_app/seb/main_window
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/initializer_list \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ios \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iosfwd \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/istream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iterator \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits.h \
@@ -4946,7 +5515,9 @@ CMakeFiles/seb.dir/main_window.cpp.o: /Users/dev/Projects/qt_app/seb/main_window
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/new \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/numeric \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/optional \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ratio \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdbool.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdexcept \
@@ -5599,8 +6170,13 @@ CMakeFiles/seb.dir/seb_autogen/mocs_compilation.cpp.o: seb_autogen/mocs_compilat
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/popcount.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/rotate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit_reference \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/chars_format.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_integral.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/tables.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_base_10.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_floating_point.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/traits.h \
@@ -5611,12 +6187,15 @@ CMakeFiles/seb.dir/seb_autogen/mocs_compilation.cpp.o: seb_autogen/mocs_compilat
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/duration.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/file_clock.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/hh_mm_ss.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/literals.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/month_weekday.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/monthday.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/ostream.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/parser_std_format_spec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/statically_widen.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/steady_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/system_clock.h \
@@ -5674,20 +6253,31 @@ CMakeFiles/seb.dir/seb_autogen/mocs_compilation.cpp.o: seb_autogen/mocs_compilat
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/buffer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/concepts.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/enable_insertable.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/escaped_output_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/extended_grapheme_cluster_table.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg_store.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_args.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_context.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_error.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_functions.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_fwd.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_parse_context.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_to_n_result.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_bool.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_char.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_floating_point.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integral.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_output.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_pointer.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_string.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/parser_std_format_spec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/unicode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/width_estimation_table.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/write_escaped.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_function.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_negate.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/bind.h \
@@ -6031,8 +6621,10 @@ CMakeFiles/seb.dir/seb_autogen/mocs_compilation.cpp.o: seb_autogen/mocs_compilat
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/array \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/atomic \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bit \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bitset \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cctype \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cerrno \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/charconv \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/chrono \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/climits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/clocale \
@@ -6056,6 +6648,7 @@ CMakeFiles/seb.dir/seb_autogen/mocs_compilation.cpp.o: seb_autogen/mocs_compilat
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/initializer_list \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ios \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iosfwd \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/istream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iterator \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits.h \
@@ -6069,7 +6662,9 @@ CMakeFiles/seb.dir/seb_autogen/mocs_compilation.cpp.o: seb_autogen/mocs_compilat
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/new \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/numeric \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/optional \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ratio \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdbool.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdexcept \
@@ -6231,9 +6826,7 @@ CMakeFiles/seb.dir/seb_autogen/mocs_compilation.cpp.o: seb_autogen/mocs_compilat
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdbool.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdint.h \
-  /Users/dev/Projects/qt_app/seb/Card.h \
   /Users/dev/Projects/qt_app/seb/main_window.h \
-  seb_autogen/EWIEGA46WW/moc_Card.cpp \
   seb_autogen/EWIEGA46WW/moc_main_window.cpp \
   seb_autogen/include/ui_main_window.h \
   /usr/local/include/QtCore/QVariant \
@@ -6456,6 +7049,8 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /usr/local/lib/QtWidgets.framework/Headers/qtablewidget.h:
 
+/usr/local/lib/QtWidgets.framework/Headers/qmainwindow.h:
+
 /usr/local/lib/QtWidgets.framework/Headers/qlistview.h:
 
 /usr/local/lib/QtWidgets.framework/Headers/qheaderview.h:
@@ -6478,7 +7073,13 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /usr/local/lib/QtCore.framework/Headers/QObject:
 
+/usr/local/include/QtWidgets/qtwidgets-config.h:
+
+/usr/local/include/QtWidgets/qtabwidget.h:
+
 /usr/local/include/QtWidgets/qtabbar.h:
+
+/usr/local/include/QtWidgets/qsizepolicy.h:
 
 /usr/local/include/QtWidgets/qlayoutitem.h:
 
@@ -6512,15 +7113,75 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /usr/local/include/QtGui/qvalidator.h:
 
+/usr/local/include/QtGui/qtransform.h:
+
+/usr/local/include/QtGui/qtguiglobal.h:
+
+/usr/local/include/QtGui/qtguiexports.h:
+
+/usr/local/include/QtGui/qrgba64.h:
+
+/usr/local/include/QtGui/qrgb.h:
+
+/usr/local/include/QtGui/qregion.h:
+
+/usr/local/include/QtGui/qpolygon.h:
+
+/usr/local/include/QtGui/qpixmap.h:
+
+/usr/local/lib/QtWidgets.framework/Headers/qstatusbar.h:
+
+/usr/local/include/QtGui/qpixelformat.h:
+
+/usr/local/include/QtGui/qpalette.h:
+
+/usr/local/include/QtGui/qpaintdevice.h:
+
+/usr/local/include/QtGui/qkeysequence.h:
+
+/usr/local/include/QtGui/qicon.h:
+
 /usr/local/include/QtGui/qguiapplication_platform.h:
 
 /usr/local/include/QtGui/qguiapplication.h:
 
+/usr/local/include/QtGui/qfontmetrics.h:
+
+/usr/local/include/QtGui/qfont.h:
+
+/usr/local/include/QtGui/qcursor.h:
+
+/usr/local/include/QtGui/qcolor.h:
+
+/usr/local/include/QtGui/qbrush.h:
+
+/usr/local/include/QtGui/qbitmap.h:
+
+/usr/local/include/QtGui/qaction.h:
+
 /usr/local/include/QtCore/qregularexpression.h:
+
+/usr/local/include/QtWidgets/qgridlayout.h:
+
+/usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qlogging.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/min_max_result.h:
+
+/usr/local/include/QtCore/qrect.h:
+
+/usr/local/include/QtCore/qpoint.h:
 
 /usr/local/include/QtCore/qnativeinterface.h:
 
-/usr/local/include/QtCore/qlocale.h:
+/usr/local/include/QtCore/qtconfiginclude.h:
+
+/usr/local/include/QtCore/qitemselectionmodel.h:
+
+/usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
+
+/usr/local/include/QtCore/qeventloop.h:
 
 /usr/local/lib/cmake/Qt6Gui/Qt6QMngPluginAdditionalTargetInfo.cmake:
 
@@ -6541,34 +7202,6 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 /usr/local/include/QtGui/qinputmethod.h:
 
 /usr/local/lib/QtCore.framework/Headers/QString:
-
-/usr/local/lib/QtWidgets.framework/Headers/qmainwindow.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h:
-
-/usr/local/include/QtWidgets/qtwidgetsglobal.h:
-
-/usr/local/include/QtWidgets/qtwidgets-config.h:
-
-/usr/local/include/QtWidgets/qtabwidget.h:
-
-/usr/local/include/QtGui/qtguiglobal.h:
-
-/usr/local/include/QtGui/qrgba64.h:
-
-/usr/local/lib/QtWidgets.framework/Headers/qstatusbar.h:
-
-/usr/local/include/QtGui/qpixelformat.h:
-
-/usr/local/include/QtGui/qpalette.h:
-
-/usr/local/lib/cmake/Qt6/Qt6Targets.cmake:
-
-/usr/local/include/QtGui/qimage.h:
-
-/usr/local/include/QtGui/qfontmetrics.h:
-
-/usr/local/include/QtGui/qcolor.h:
 
 /usr/local/include/QtCore/qxptype_traits.h:
 
@@ -6604,12 +7237,6 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /usr/local/include/QtCore/qtcore-config.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__mutex/lock_guard.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/climits:
-
-/usr/local/include/QtWidgets/qtwidgetsexports.h:
-
 /usr/local/include/QtCore/qtclasshelpermacros.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h:
@@ -6617,6 +7244,8 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 /usr/local/include/QtCore/qsystemdetection.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/ranges_uninitialized_algorithms.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/charconv:
 
 /usr/local/include/QtCore/qsysinfo.h:
 
@@ -6630,21 +7259,9 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /usr/local/include/QtCore/qstringlist.h:
 
-/usr/local/include/QtCore/qstringconverter_base.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
 
 /usr/local/include/QtCore/qstring.h:
-
-/usr/local/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/decay.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ctime:
-
-/usr/local/include/QtCore/qsize.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/enable_insertable.h:
 
@@ -6665,16 +7282,6 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 /usr/local/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginConfig.cmake:
 
 /usr/local/include/QtCore/qscopedpointer.h:
-
-/usr/local/include/QtWidgets/qgridlayout.h:
-
-/usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qlogging.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/min_max_result.h:
-
-/usr/local/include/QtCore/qrect.h:
-
-/usr/local/include/QtCore/qpoint.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ratio:
 
@@ -6730,6 +7337,10 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /usr/local/include/QtCore/qchar.h:
 
+/usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qswap.h:
+
+/usr/local/include/QtCore/qcalendar.h:
+
 /usr/local/include/QtCore/qbytearraylist.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h:
@@ -6772,11 +7383,7 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/xlocale/_time.h:
 
-/usr/local/include/QtWidgets/qsizepolicy.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/xlocale/_stdio.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/xlocale/__wctype.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/wctype.h:
 
@@ -6886,6 +7493,8 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_arg_store.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_condattr_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_pthread/_pthread_attr_t.h:
@@ -6958,6 +7567,8 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/string:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_context.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdio.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qfloat16.h:
@@ -6965,6 +7576,8 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdexcept:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/stdbool.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_count.h:
 
@@ -7008,6 +7621,10 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/limits:
 
+/usr/local/include/QtCore/qstringconverter_base.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/istream:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/iosfwd:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/initializer_list:
@@ -7026,6 +7643,16 @@ seb_autogen/EWIEGA46WW/moc_main_window.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/errno.h:
 
+/usr/local/include/QtCore/qsize.h:
+
+/usr/local/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/decay.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ctime:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_useconds_t.h:
 
 CMakeFiles/3.30.3/CMakeSystem.cmake:
@@ -7036,11 +7663,21 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cstdint:
 
+/usr/local/include/QtCore/qlocale.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/cstdarg:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/compare:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/clocale:
+
+/usr/local/include/QtWidgets/qtwidgetsexports.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__mutex/lock_guard.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/climits:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/bitset:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/signal.h:
 
@@ -7220,6 +7857,10 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/system_error:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/ostream:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/cdefs.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/hash.h:
@@ -7277,6 +7918,10 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/is_heap.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/algorithm:
+
+/usr/local/lib/QtCore.framework/Headers/QDateTime:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qstyle.h:
 
@@ -7345,6 +7990,8 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/partition_copy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__ranges/enable_view.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_result.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__mutex/unique_lock.h:
 
@@ -7618,17 +8265,27 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_negate.h:
 
-/usr/local/include/QtGui/qicon.h:
-
 /usr/local/include/QtCore/qstringview.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/binary_function.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/write_escaped.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/width_estimation_table.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qdatastream.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/parser_std_format_spec.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_string.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/AvailabilityVersions.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_merge.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_pointer.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_char.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter.h:
 
@@ -7644,13 +8301,13 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__exception/exception_ptr.h:
 
-/usr/local/include/QtGui/qbitmap.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__debug_utils/strict_weak_ordering_check.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_backends/cpu_backends/libdispatch.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/escaped_output_table.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__condition_variable/condition_variable.h:
 
@@ -7744,6 +8401,10 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/statically_widen.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/parser_std_format_spec.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/ostream.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/monthday.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_unsigned.h:
@@ -7770,7 +8431,15 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/high_resolution_clock.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/xlocale/__wctype.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/formatter.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_nothrow_convertible.h:
+
+/usr/local/include/QtWidgets/qtwidgetsglobal.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__chrono/day.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/assignable.h:
 
@@ -7794,6 +8463,8 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/has_single_bit.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_args.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_move_constructible.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/countr.h:
@@ -7807,10 +8478,6 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/uses_allocator_construction.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/byteswap.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
-
-/usr/local/include/QtGui/qtgui-config.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qcoreevent.h:
 
@@ -7833,8 +8500,6 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__bit/bit_cast.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__availability:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__functional/compose.h:
 
@@ -7935,6 +8600,10 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_fd_clr.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h:
+
+/usr/local/include/QtGui/qtgui-config.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/shift_left.h:
 
@@ -8188,10 +8857,6 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_trivially_constructible.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/AvailabilityVersions.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_merge.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/type_list.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__compare/compare_three_way_result.h:
@@ -8260,17 +8925,11 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/bounded_iter.h:
 
-/usr/local/include/QtCore/qeventloop.h:
-
-/usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/pstl_copy.h:
 
-/usr/local/include/QtGui/qtransform.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/none_of.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/format_functions.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/move_backward.h:
 
@@ -8433,8 +9092,6 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 /usr/local/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-release.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int16_t.h:
-
-/usr/local/include/QtGui/qrgb.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__fwd/string.h:
 
@@ -8600,8 +9257,6 @@ CMakeFiles/3.30.3/CMakeSystem.cmake:
 
 /usr/local/lib/cmake/Qt6Gui/Qt6QMngPluginConfig.cmake:
 
-seb_autogen/EWIEGA46WW/moc_Card.cpp:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_class.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/derived_from.h:
@@ -8652,8 +9307,6 @@ seb_autogen/EWIEGA46WW/moc_Card.cpp:
 
 /usr/local/lib/cmake/Qt6Gui/Qt6QJp2PluginConfig.cmake:
 
-/usr/local/include/QtGui/qfont.h:
-
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h:
@@ -8684,6 +9337,12 @@ seb_autogen/EWIEGA46WW/moc_Card.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_base_of.h:
 
+/usr/local/include/QtCore/qobject.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_find_first_of.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/from_chars_integral.h:
+
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qrefcount.h:
@@ -8707,6 +9366,8 @@ seb_autogen/EWIEGA46WW/moc_Card.cpp:
 /usr/local/include/QtCore/qcontainerinfo.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_in_port_t.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars_floating_point.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/FindWrapOpenGL.cmake:
 
@@ -8762,6 +9423,8 @@ seb_autogen/EWIEGA46WW/moc_Card.cpp:
 
 /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/to_chars.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/limits.h:
 
 /usr/local/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginConfig.cmake:
@@ -8793,6 +9456,8 @@ seb_autogen/include/ui_main_window.h:
 /usr/local/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets.cmake:
 
 /usr/local/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginTargets-release.cmake:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_floating_point.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtGui.framework/Versions/A/Headers/qrgba64.h:
 
@@ -8846,11 +9511,7 @@ seb_autogen/include/ui_main_window.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:
 
-/usr/local/include/QtGui/qpixmap.h:
-
 /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
-
-/usr/local/include/QtGui/qcursor.h:
 
 /usr/local/lib/QtWidgets.framework/Headers/qwidget.h:
 
@@ -8915,10 +9576,6 @@ seb_autogen/include/ui_main_window.h:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h:
-
-/usr/local/include/QtCore/qobject.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_find_first_of.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qtabbar.h:
 
@@ -9102,8 +9759,6 @@ seb_autogen/include/ui_main_window.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qarraydata.h:
 
-/usr/local/include/QtGui/qpolygon.h:
-
 /usr/local/include/QtCore/q20memory.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/numeric:
@@ -9112,13 +9767,11 @@ seb_autogen/include/ui_main_window.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h:
 
-/usr/local/include/QtCore/qitemselectionmodel.h:
-
-/usr/local/include/QtCore/qtconfiginclude.h:
-
 /usr/local/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginDependencies.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__tuple/tuple_indices.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__charconv/chars_format.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__concepts/swappable.h:
 
@@ -9142,8 +9795,6 @@ seb_autogen/include/ui_main_window.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h:
 
-/usr/local/include/QtGui/qbrush.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
@@ -9165,8 +9816,6 @@ seb_autogen/include/ui_main_window.h:
 /usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h:
-
-/usr/local/include/QtGui/qkeysequence.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/assume_aligned.h:
 
@@ -9231,8 +9880,6 @@ seb_autogen/include/ui_main_window.h:
 /usr/local/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qabstractscrollarea.h:
-
-/usr/local/include/QtGui/qregion.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qmargins.h:
 
@@ -9338,8 +9985,6 @@ seb_autogen/mocs_compilation.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_endian.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/algorithm:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__mutex/tag_types.h:
 
 /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:
@@ -9379,8 +10024,6 @@ seb_autogen/mocs_compilation.cpp:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/is_trivially_destructible.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtWidgets.framework/Versions/A/Headers/qlistview.h:
-
-/usr/local/include/QtGui/qaction.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qiterator.h:
 
@@ -9432,6 +10075,8 @@ seb_autogen/mocs_compilation.cpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_pid_t.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__format/formatter_integer.h:
+
 /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Platform/Darwin-Initialize.cmake:
 
 /usr/local/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake:
@@ -9477,8 +10122,6 @@ seb_autogen/mocs_compilation.cpp:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/assert.h:
 
 /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeGenericSystem.cmake:
-
-/usr/local/include/QtGui/qpaintdevice.h:
 
 /usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CheckLibraryExists.cmake:
 
@@ -9529,6 +10172,10 @@ seb_autogen/mocs_compilation.cpp:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__type_traits/remove_cv.h:
 
 seb_autogen/moc_predefs.h:
+
+/usr/local/include/QtGui/qimage.h:
+
+/usr/local/lib/cmake/Qt6/Qt6Targets.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_unique.h:
 
@@ -9610,8 +10257,6 @@ seb_autogen/moc_predefs.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/i386/types.h:
 
-/usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qswap.h:
-
 /usr/local/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets.cmake:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sys/_types/_pid_t.h:
@@ -9644,8 +10289,6 @@ seb_autogen/moc_predefs.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_offsetof.h:
 
-/usr/local/include/QtGui/qtguiexports.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/in_in_out_result.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/ranges_fill.h:
@@ -9661,6 +10304,8 @@ seb_autogen/moc_predefs.h:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_rune_t.h:
 
 /usr/local/Cellar/qt/6.7.0_2/lib/QtCore.framework/Versions/A/Headers/qendian.h:
+
+/usr/local/lib/QtCore.framework/Headers/qdatetime.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/sched.h:
 

@@ -22,6 +22,6 @@ QString Deck::Get_deck_name() const
 //------------------------------------------------------------------------
 void Deck::Set_Deck_Name(const QString &name)
 {
-    deck_name = name;
+    deck_name = std::move(name);
 }
 //------------------------------------------------------------------------
