@@ -338,6 +338,21 @@
 		"/usr/local/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets.cmake",
 		"/usr/local/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-release.cmake",
 		"/usr/local/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindGTest.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/GoogleTest.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageMessage.cmake",
+		"/usr/local/lib/cmake/GTest/GTestConfigVersion.cmake",
+		"/usr/local/lib/cmake/GTest/GTestConfig.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindThreads.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CheckLibraryExists.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CheckIncludeFileCXX.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/CheckCXXSourceCompiles.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageMessage.cmake",
+		"/usr/local/lib/cmake/GTest/GTestTargets.cmake",
+		"/usr/local/lib/cmake/GTest/GTestTargets-release.cmake",
 		"/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/GNUInstallDirs.cmake",
 		"/usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/macos/Info.plist.app.in"
 	],
@@ -360,6 +375,12 @@
 			null
 		],
 		[
+			"/Users/dev/Projects/qt_app/seb/Mock_Database.h",
+			"MU",
+			"EWIEGA46WW/moc_Mock_Database.cpp",
+			null
+		],
+		[
 			"/Users/dev/Projects/qt_app/seb/main_window.h",
 			"MU",
 			"EWIEGA46WW/moc_main_window.cpp",
@@ -379,7 +400,6 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/usr/local/Cellar/googletest/1.15.2/include",
 		"/usr/local/lib/QtCore.framework/Headers",
 		"/usr/local/lib/QtCore.framework",
 		"/usr/local/share/qt/mkspecs/macx-clang",
@@ -426,6 +446,12 @@
 	[
 		[ "/Users/dev/Projects/qt_app/seb/Card.cpp", "MU", null ],
 		[ "/Users/dev/Projects/qt_app/seb/Deck.cpp", "MU", null ],
+		[ "/Users/dev/Projects/qt_app/seb/Mock_Database.cpp", "MU", null ],
+		[
+			"/Users/dev/Projects/qt_app/seb/Tests/Database_Mock_Tests.cpp",
+			"MU",
+			null
+		],
 		[ "/Users/dev/Projects/qt_app/seb/main.cpp", "MU", null ],
 		[ "/Users/dev/Projects/qt_app/seb/main_window.cpp", "MU", null ]
 	],

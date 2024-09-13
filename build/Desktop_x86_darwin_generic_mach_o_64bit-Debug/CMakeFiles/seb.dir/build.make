@@ -146,13 +146,43 @@ CMakeFiles/seb.dir/Deck.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/seb.dir/Deck.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dev/Projects/qt_app/seb/Deck.cpp -o CMakeFiles/seb.dir/Deck.cpp.s
 
+CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o: CMakeFiles/seb.dir/flags.make
+CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o: /Users/dev/Projects/qt_app/seb/Tests/Database_Mock_Tests.cpp
+CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o: CMakeFiles/seb.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/dev/Projects/qt_app/seb/build/Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o -MF CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o.d -o CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o -c /Users/dev/Projects/qt_app/seb/Tests/Database_Mock_Tests.cpp
+
+CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dev/Projects/qt_app/seb/Tests/Database_Mock_Tests.cpp > CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.i
+
+CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dev/Projects/qt_app/seb/Tests/Database_Mock_Tests.cpp -o CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.s
+
+CMakeFiles/seb.dir/Mock_Database.cpp.o: CMakeFiles/seb.dir/flags.make
+CMakeFiles/seb.dir/Mock_Database.cpp.o: /Users/dev/Projects/qt_app/seb/Mock_Database.cpp
+CMakeFiles/seb.dir/Mock_Database.cpp.o: CMakeFiles/seb.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/dev/Projects/qt_app/seb/build/Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/seb.dir/Mock_Database.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/seb.dir/Mock_Database.cpp.o -MF CMakeFiles/seb.dir/Mock_Database.cpp.o.d -o CMakeFiles/seb.dir/Mock_Database.cpp.o -c /Users/dev/Projects/qt_app/seb/Mock_Database.cpp
+
+CMakeFiles/seb.dir/Mock_Database.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/seb.dir/Mock_Database.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dev/Projects/qt_app/seb/Mock_Database.cpp > CMakeFiles/seb.dir/Mock_Database.cpp.i
+
+CMakeFiles/seb.dir/Mock_Database.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/seb.dir/Mock_Database.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dev/Projects/qt_app/seb/Mock_Database.cpp -o CMakeFiles/seb.dir/Mock_Database.cpp.s
+
 # Object files for target seb
 seb_OBJECTS = \
 "CMakeFiles/seb.dir/seb_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/seb.dir/main.cpp.o" \
 "CMakeFiles/seb.dir/main_window.cpp.o" \
 "CMakeFiles/seb.dir/Card.cpp.o" \
-"CMakeFiles/seb.dir/Deck.cpp.o"
+"CMakeFiles/seb.dir/Deck.cpp.o" \
+"CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o" \
+"CMakeFiles/seb.dir/Mock_Database.cpp.o"
 
 # External object files for target seb
 seb_EXTERNAL_OBJECTS =
@@ -162,12 +192,14 @@ seb.app/Contents/MacOS/seb: CMakeFiles/seb.dir/main.cpp.o
 seb.app/Contents/MacOS/seb: CMakeFiles/seb.dir/main_window.cpp.o
 seb.app/Contents/MacOS/seb: CMakeFiles/seb.dir/Card.cpp.o
 seb.app/Contents/MacOS/seb: CMakeFiles/seb.dir/Deck.cpp.o
+seb.app/Contents/MacOS/seb: CMakeFiles/seb.dir/Tests/Database_Mock_Tests.cpp.o
+seb.app/Contents/MacOS/seb: CMakeFiles/seb.dir/Mock_Database.cpp.o
 seb.app/Contents/MacOS/seb: CMakeFiles/seb.dir/build.make
 seb.app/Contents/MacOS/seb: /usr/local/lib/QtWidgets.framework/Versions/A/QtWidgets
 seb.app/Contents/MacOS/seb: /usr/local/lib/QtGui.framework/Versions/A/QtGui
 seb.app/Contents/MacOS/seb: /usr/local/lib/QtCore.framework/Versions/A/QtCore
 seb.app/Contents/MacOS/seb: CMakeFiles/seb.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/dev/Projects/qt_app/seb/build/Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable seb.app/Contents/MacOS/seb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/dev/Projects/qt_app/seb/build/Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable seb.app/Contents/MacOS/seb"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/seb.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

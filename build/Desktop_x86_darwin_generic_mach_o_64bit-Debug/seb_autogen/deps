@@ -94,6 +94,9 @@ seb_autogen/timestamp: \
 	/Users/dev/Projects/qt_app/seb/Card.h \
 	/Users/dev/Projects/qt_app/seb/Deck.cpp \
 	/Users/dev/Projects/qt_app/seb/Deck.h \
+	/Users/dev/Projects/qt_app/seb/Mock_Database.cpp \
+	/Users/dev/Projects/qt_app/seb/Mock_Database.h \
+	/Users/dev/Projects/qt_app/seb/Tests/Database_Mock_Tests.cpp \
 	/Users/dev/Projects/qt_app/seb/build/Desktop_x86_darwin_generic_mach_o_64bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	/Users/dev/Projects/qt_app/seb/build/Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/3.30.3/CMakeCXXCompiler.cmake \
 	/Users/dev/Projects/qt_app/seb/build/Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/3.30.3/CMakeSystem.cmake \
@@ -118,12 +121,14 @@ seb_autogen/timestamp: \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/Clang.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Compiler/GNU.cmake \
+	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindGTest.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindOpenGL.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindPackageMessage.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindThreads.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/FindVulkan.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/GNUInstallDirs.cmake \
+	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/GoogleTest.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Internal/CheckCompilerFlag.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Internal/CheckFlagCommonConfig.cmake \
 	/usr/local/Cellar/cmake/3.30.3/share/cmake/Modules/Internal/CheckSourceCompiles.cmake \
@@ -338,6 +343,10 @@ seb_autogen/timestamp: \
 	/usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
 	/usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
 	/usr/local/Cellar/qt/6.7.0_2/lib/cmake/Qt6/macos/Info.plist.app.in \
+	/usr/local/lib/cmake/GTest/GTestConfig.cmake \
+	/usr/local/lib/cmake/GTest/GTestConfigVersion.cmake \
+	/usr/local/lib/cmake/GTest/GTestTargets-release.cmake \
+	/usr/local/lib/cmake/GTest/GTestTargets.cmake \
 	/usr/local/lib/cmake/Qt6/Qt6Config.cmake \
 	/usr/local/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
 	/usr/local/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
